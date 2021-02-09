@@ -9,5 +9,5 @@
 boostrap : 
 https://getbootstrap.com/
 
-AOS js
+AOS js : 
 https://michalsnik.github.io/aos/

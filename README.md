@@ -2,5 +2,4 @@
 
 # ket : 
 
-<p> di bangun dengan boostrap 4 dan juga AOS js 
-have fun </p>
+<p> di bangun dengan boostrap 4 dan juga AOS js. semoga bermanfaat</p>
